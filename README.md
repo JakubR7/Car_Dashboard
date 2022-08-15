@@ -39,8 +39,8 @@ Tachometer Operation:
 - in the middle, the RPM and the current gear are displayed, where 'P' stands for the parking gear, switched on and off with the 'D' button
 
 Center Panel Operation:
--the first panel displays information about the available distance that can be traveled with the current fuel level and fuel consumption, average fuel consumption and total distance traveled are also displayed
--the second panel displays the music, author and title
--the third screen shows messages regarding non-operating components or problems with them, for example, the ABS system is not working
--the fourth panel displays GPS navigation
+- the first panel displays information about the available distance that can be traveled with the current fuel level and fuel consumption, average fuel consumption and total distance traveled are also displayed
+- the second panel displays the music, author and title
+- the third screen shows messages regarding non-operating components or problems with them, for example, the ABS system is not working
+- the fourth panel displays GPS navigation
   
