@@ -1,0 +1,31 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Images/abs.png</file>
+        <file>Images/battery.png</file>
+        <file>Images/car.png</file>
+        <file>Images/engine.png</file>
+        <file>Images/engine_warning.png</file>
+        <file>Images/error.png</file>
+        <file>Images/gas.png</file>
+        <file>Images/handBrake.png</file>
+        <file>Images/info.png</file>
+        <file>Images/left.png</file>
+        <file>Images/left_green.png</file>
+        <file>Images/left_white.png</file>
+        <file>Images/lights.png</file>
+        <file>Images/lowbeam.png</file>
+        <file>Images/lowbeam2.png</file>
+        <file>Images/music.png</file>
+        <file>Images/pause.png</file>
+        <file>Images/play.png</file>
+        <file>Images/playlist.png</file>
+        <file>Images/right_green.png</file>
+        <file>Images/right_white.png</file>
+        <file>Images/stop.png</file>
+        <file>Images/temperature.png</file>
+        <file>Images/label-arrow.png</file>
+        <file>Images/marker-green.png</file>
+        <file>Images/marker-red.png</file>
+        <file>Images/map.png</file>
+    </qresource>
+</RCC>
